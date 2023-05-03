@@ -6,19 +6,11 @@
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sadums/Challenge-08.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sadums/Challenge-08/issues"
-  },
-  "homepage": "https://github.com/sadums/Challenge-08#readme",
   "dependencies": {
-    "inquirer": "^9.2.0",
+    "inquirer": "8.2.4",
     "jest": "^29.5.0"
   }
 }
+
