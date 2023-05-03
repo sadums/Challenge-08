@@ -8,6 +8,9 @@ const questions = [
     {
         message: 'Enter text for your logo.',
         name: 'text',
+        validate: async (input) => {
+            return (input.length > 3 ? 'Logo text must be 3 characters or less' : true);
+        }
     },
     {
         message: 'Enter a text color for your logo.',
