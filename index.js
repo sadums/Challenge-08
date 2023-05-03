@@ -6,10 +6,27 @@ const generateSVG = require('./lib/shapes');
 // Inquirer questions
 const questions = [
     {
-        type: 'input',
-        message: 'Enter text for your logo',
-        name: 'text'
-    }
+        message: 'Enter text for your logo.',
+        name: 'text',
+    },
+    {
+        message: 'Enter a text color for your logo.',
+        name: 'textColor'
+    },
+    {
+        type: 'list',
+        message: 'Choose a shape for your logo.',
+        name: 'shape',
+        choices: [
+            'circle',
+            'triangle',
+            'square'
+        ]
+    },
+    {
+        message: 'Enter a shape color for your logo.',
+        name: 'shapeColor'
+    },
 ];
 
 
