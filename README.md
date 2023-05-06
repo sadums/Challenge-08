@@ -8,7 +8,7 @@ This code provides a logo SVG generator that allows you to create a customized l
 ## Installation
 
 Before using the project, ensure you have node.js and the following packages installed:
-- [Inquirer](https://www.npmjs.com/package/inquirer "www.npmjs.com")
+- [Inquirer](https://www.npmjs.com/package/inquirer "npmjs.com")
 - [Jest](https://jestjs.io "jestjs.io")
 
 ## Getting started
@@ -41,6 +41,8 @@ node index.js
 7. Check the specified output directory for the generated SVG file.
 
 That's it! You have successfully generated a customized logo SVG using the provided code.
+
+**For a video walkthrough click [here](https://drive.google.com/file/d/1aEoHF3_quX08RDdFiXe61jzZf2etxQME/view "drive.google.com")**
 
 ## License
 
