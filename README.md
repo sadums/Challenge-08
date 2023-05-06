@@ -67,6 +67,9 @@ To run the shape tests, follow these steps:
  * If all tests pass, you will see a success message for each test.
  * If any test fails, Jest will provide details about the failure.
 
+
+**For a video walkthrough of passing tests click [here](https://drive.google.com/file/d/1HBSn2rZTbxgc54bDGmGfJvMRia_kJoU7/view "drive.google.com")**
+
 ## Questions 
 
 For any questions, please contact me:
