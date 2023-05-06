@@ -1,7 +1,7 @@
 // Packages
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generateSVG = require('./lib/shapes');
+const generateSVG = require('./lib/shapes').generateSVG;
 
 // Inquirer questions
 const questions = [
