@@ -42,7 +42,7 @@ node index.js
 
 That's it! You have successfully generated a customized logo SVG using the provided code.
 
-**For a video walkthrough click [here](https://drive.google.com/file/d/1aEoHF3_quX08RDdFiXe61jzZf2etxQME/view "drive.google.com")**
+**For a video walkthrough click [here](https://drive.google.com/file/d/1vljuAlt0R66pVkXW-IdNk88soId80dRg/view "drive.google.com")**
 
 ## License
 
@@ -68,7 +68,6 @@ To run the shape tests, follow these steps:
  * If any test fails, Jest will provide details about the failure.
 
 
-**For a video walkthrough of passing tests click [here](https://drive.google.com/file/d/1HBSn2rZTbxgc54bDGmGfJvMRia_kJoU7/view "drive.google.com")**
 
 ## Questions 
 
